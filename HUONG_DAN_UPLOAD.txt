@@ -1,0 +1,13 @@
+HOAHIKARI – bản GitHub Pages ổn định
+
+Upload 4 file này vào thư mục gốc của repository (cùng cấp):
+1. index.html
+2. styles.css
+3. data.js
+4. app.js
+
+Sau đó vào GitHub Pages và chọn Deploy from branch -> main -> /(root).
+Mở lại trang bằng Ctrl/Cmd + Shift + R.
+
+Không đổi tên 4 file. Không xóa data.js hoặc app.js.
+Mật khẩu và toàn bộ dữ liệu đề nằm trong data.js; app.js giữ toàn bộ chức năng.
